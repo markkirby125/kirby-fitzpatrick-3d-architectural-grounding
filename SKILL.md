@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-3d-architectural-grounding
-description: "Force explicit mapping of state lifecycles, concurrency boundaries, and failure modes." Use this when working on fitzpatrick 3d architectural grounding.
+description: "Force explicit mapping of state lifecycles, concurrency boundaries, and failure modes. Use this when working on fitzpatrick 3d architectural grounding."
 category: "Writing & Communication"
 triggers:
   - "3d architectural grounding"
