@@ -9,7 +9,7 @@ triggers:
   - "failure mode mapping"
   - "defeat fake fluency"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
